@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/form-pdf-project/static/css/main.322e363a.css",
+    "main.js": "/form-pdf-project/static/js/main.9965f20e.js",
+    "static/js/213.7154906d.chunk.js": "/form-pdf-project/static/js/213.7154906d.chunk.js",
+    "static/js/732.c8baeebb.chunk.js": "/form-pdf-project/static/js/732.c8baeebb.chunk.js",
+    "static/js/453.812b659b.chunk.js": "/form-pdf-project/static/js/453.812b659b.chunk.js",
+    "static/media/fa-solid-900.ttf": "/form-pdf-project/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/form-pdf-project/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/form-pdf-project/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/form-pdf-project/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/form-pdf-project/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/profileBG.png": "/form-pdf-project/static/media/profileBG.f42c64ba12b8eade2b5e.png",
+    "static/media/fa-regular-400.woff2": "/form-pdf-project/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/form-pdf-project/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/form-pdf-project/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/tasks.svg": "/form-pdf-project/static/media/tasks.4a2b76b87ff1af11b302.svg",
+    "static/media/calculation.svg": "/form-pdf-project/static/media/calculation.044703fb1402d124b628.svg",
+    "index.html": "/form-pdf-project/index.html",
+    "static/media/totallaw.svg": "/form-pdf-project/static/media/totallaw.b79613557587bb23f653.svg",
+    "static/media/Outside.svg": "/form-pdf-project/static/media/Outside.cfc5fccaf0ba8ad2d79f.svg",
+    "static/media/Inside.svg": "/form-pdf-project/static/media/Inside.dcae919f52b8ba4f483c.svg",
+    "main.322e363a.css.map": "/form-pdf-project/static/css/main.322e363a.css.map",
+    "main.9965f20e.js.map": "/form-pdf-project/static/js/main.9965f20e.js.map",
+    "213.7154906d.chunk.js.map": "/form-pdf-project/static/js/213.7154906d.chunk.js.map",
+    "732.c8baeebb.chunk.js.map": "/form-pdf-project/static/js/732.c8baeebb.chunk.js.map",
+    "453.812b659b.chunk.js.map": "/form-pdf-project/static/js/453.812b659b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.322e363a.css",
+    "static/js/main.9965f20e.js"
+  ]
+}
